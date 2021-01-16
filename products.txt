@@ -1,0 +1,15 @@
+Shoes(9 UK) - 1000
+Shirt(M) - 500
+Jeans(42) - 350
+T-shirt - 250
+iPhoneX  - 135999
+iPhone11 - 129999
+iphone12 - 139999
+Trousers - 699
+Keyboard - 500
+Mouse RGB - 300
+Laptop Bag - 500 
+Masks - 70
+LED TV - 10999
+Jacket - 799
+Hoodie - 649
